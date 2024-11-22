@@ -49,7 +49,7 @@ session_start();
                                         <input type="number" name="nota" min="1" max="5" class="form-control" required="required"/>
                                 </div>
                                 <div class="form-group">
-                                        <label>Comentario</label>
+                                        <label>Comentário</label>
                                         <input type="text" name="comentario" class="form-control" required="required"/>
                                 </div>
                                 <?php
@@ -71,7 +71,7 @@ session_start();
                         <!-- Fim do formulario de critica -->
                 </div>
                 <br>
-                <h4>Apos ser aprovado pelos moderadores sua critica sera colocada na pagina do jogo, no caso de pedidos de novos jogos, os mais pedidos serao colocados primeiro.<h4>
+                <h4>Após ser aprovado pelos moderadores sua critica será colocada na página do jogo, no caso de pedidos de novos jogos, os mais pedidos serão colocados primeiro.<h4>
         </div>
 </body>
 </html>
