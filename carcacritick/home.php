@@ -338,7 +338,7 @@
 </div>
 
     <button class="btn-default">
-        Ver mais avaliações
+        <a href="critica.php" class="btn-default">Fazer Critica</a>
     </button>
 
     </div>
